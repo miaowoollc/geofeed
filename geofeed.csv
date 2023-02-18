@@ -1,0 +1,8 @@
+# prefix,country_code,region_code,city,postal
+2602:faac::/40,US,US-WA,Seattle,
+2a06:a005:1200::/44,LU,LU-LU,Luxembourg,
+2a06:a005:1210::/44,US,US-WA,Seattle,
+2a06:a005:1220::/44,SG,SG-01,Singapore,
+2a06:a005:1230::/44,TW,TW-TPE,Taipei,
+2a0a:6040:5800::/40,US,US-WA,Seattle,
+2a0e:aa07:e042::/48,LU,LU-LU,Luxembourg,
